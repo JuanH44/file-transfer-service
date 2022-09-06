@@ -28,7 +28,7 @@ public class CEnvia {
                 String xx = archivos[i].getAbsolutePath();
                 xx = (archivos[i].isDirectory())? xx+ "/":xx;
                 System.out.println(xx); 
-            }//pilin
+            }//pilin okokok
                 String nombre = f.getName();
                 String path = f.getAbsolutePath();
                 long tam = f.length();
